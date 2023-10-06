@@ -3,7 +3,7 @@
 <br>
 <br>
 
-<img src="https://github.com/KarolinaPntzt/window_centroid/blob/main/img/window_centroids.PNG?raw=True" width=70%)></img>
+<center><img src="https://github.com/KarolinaPntzt/window_centroid/blob/main/img/window_centroids.PNG?raw=True" width=70%)></img></center>center>
 
 <br>
 <br>
